@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **javaScript**
 
-- 👨‍💻 All of my projects are available at (https:serhatkoc.com.tr)
+- 👨‍💻 All of my projects are available at [Serhat Koç'un Projeleri](https://serhatkoc.com.tr)
 
 - 📫 How to reach me **kocserhat671@gmail.com**
 
